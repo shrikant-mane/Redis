@@ -1491,8 +1491,7 @@ This combination allows an application to revoke a JWT immediately without waiti
 # 👨‍💻 Author
 
 **Shrikant Mane**
-
-Python Developer | Django | Django REST Framework | REST APIs | Redis | JWT
+Python Backend Developer | FastAPI | Django | Flask | REST APIs | PostgreSQL | SQL | AWS | Docker | Pytest | Agile
 
 ---
 
